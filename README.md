@@ -1,7 +1,7 @@
-### Olá, meu nome é Marcel Felipe Lell Flores, estudante de Análise e Desenvolvimento de Sistemas
+## Olá, meu nome é Marcel Flores e sou estudante de Análise e Desenvolvimento de Sistemas.
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelflrs&theme=aura&layout=compact)
 
 
-<!---
-MarcelFlrs/MarcelFlrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
